@@ -1,2 +1,1 @@
-# Prepcurse-Jose
-este es un repocitorio de prueba de Jose 
+Prueba de como hacer un repocitorio y ponerlo en mi directorio actual 
